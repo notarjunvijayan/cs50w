@@ -31,3 +31,19 @@ body{
 body h1{
     margin:10px;
 }
+table{
+    border: 3px;
+    border-style:solid;
+    margin:10px;
+}
+table th{
+    border:3px;
+    border-style: solid;
+    padding: 5px;
+}
+table td{
+    border:1px;
+    border-style:solid;
+    padding:5px;
+    text-align: center;
+}

@@ -28,3 +28,6 @@ header a:hover{
 body{
     background-color: whitesmoke;
 }
+body h1{
+    margin:10px;
+}

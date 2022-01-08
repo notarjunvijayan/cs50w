@@ -1,0 +1,30 @@
+header li{
+    display: inline;
+    list-style: none;
+    padding:20px 20px 20px 20px;
+    margin:none;
+}
+header li:hover{
+    background-color: wheat;
+}
+header h3{
+    padding-bottom:20px;
+    margin: none;
+}
+#header{
+    background-color: black;
+    text-align: left;
+    color: white;
+    padding:20px;
+    height: 60px;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    color: black;
+}
+body{
+    background-color: whitesmoke;
+}
